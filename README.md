@@ -19,3 +19,5 @@ Demos:
 
 [Demo3](https://vladocar.github.io/1-line-CSS-Framework/1-line-css-framework-3.html)
 
+[You can find more on my blog >>](http://www.vcarrer.com/2018/03/1-line-css-framework.html)
+
